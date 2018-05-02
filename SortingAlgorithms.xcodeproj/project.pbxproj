@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19A0FEE920842E42000E03DC /* ArrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A0FEE820842E42000E03DC /* ArrayView.swift */; };
 		19ED0F6E207AE7FE002CB5C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19ED0F6D207AE7FE002CB5C6 /* AppDelegate.swift */; };
 		19ED0F70207AE7FE002CB5C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19ED0F6F207AE7FE002CB5C6 /* ViewController.swift */; };
 		19ED0F73207AE7FE002CB5C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19ED0F71207AE7FE002CB5C6 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		19A0FEE820842E42000E03DC /* ArrayView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayView.swift; sourceTree = "<group>"; };
 		19ED0F6A207AE7FE002CB5C6 /* SortingAlgorithms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SortingAlgorithms.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		19ED0F6D207AE7FE002CB5C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		19ED0F6F207AE7FE002CB5C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		19ED0F6C207AE7FE002CB5C6 /* SortingAlgorithms */ = {
 			isa = PBXGroup;
 			children = (
+				19A0FEE820842E42000E03DC /* ArrayView.swift */,
 				19ED0F6D207AE7FE002CB5C6 /* AppDelegate.swift */,
 				19ED0F6F207AE7FE002CB5C6 /* ViewController.swift */,
 				19ED0F71207AE7FE002CB5C6 /* Main.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19A0FEE920842E42000E03DC /* ArrayView.swift in Sources */,
 				19ED0F70207AE7FE002CB5C6 /* ViewController.swift in Sources */,
 				19ED0F6E207AE7FE002CB5C6 /* AppDelegate.swift in Sources */,
 			);
